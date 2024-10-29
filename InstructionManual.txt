@@ -1,0 +1,4 @@
+Instructions for Opening the Corpus / Dataset:
+	1. This dataset contains a bilingual text corpus for Hindi and Dogri, with one file for Hindi text and another for Dogri text.
+	2. The text in both files is parallelly aligned.
+	3. Open the files in Notepad++.
